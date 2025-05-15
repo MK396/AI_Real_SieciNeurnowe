@@ -1,0 +1,4 @@
+MobileNetV2
+VGG16
+ResNet50
+EfficentNet

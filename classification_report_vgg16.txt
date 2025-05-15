@@ -1,0 +1,13 @@
+Raport klasyfikacji:
+              precision    recall  f1-score   support
+
+        fake       0.81      0.82      0.81      6000
+        real       0.81      0.81      0.81      6000
+
+    accuracy                           0.81     12000
+   macro avg       0.81      0.81      0.81     12000
+weighted avg       0.81      0.81      0.81     12000
+
+Macierz b³êdów:
+[[4897 1103]
+ [1155 4845]]
